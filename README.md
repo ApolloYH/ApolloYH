@@ -1,11 +1,10 @@
 # 展钰
 
-> 🤖 AI 算法工程 / 多模态系统 / RAG / 数字人
+> 🤖 AI 算法工程 / 多模态系统 / RAG / Agent
 
 ## 👋 About Me
 
-人工智能专业背景，主要做多模态问答、RAG 检索增强、语音交互和数字人系统。
-我更关注把模型能力做成完整系统，而不是只停留在单点实验。
+人工智能专业背景，主要做多模态问答、RAG 检索增强、Agent开发。
 
 ## 🧠 Core Strengths
 
@@ -19,7 +18,13 @@
 `Python` `C++` `PyTorch` `MindSpore` `Transformer` `CLIP` `RWKV` `LoRA` `LangChain` `FunASR` `BM25` `FAISS` `RAG` `Live2D`
 
 ## 🚀 Selected Projects
-
+### 0. claude-code魔改项目
+- 原有 Claude Code 工作流基础上加入 Jarvis 常驻智能体
+- 将记忆加入L1-L4 长期记忆实现skill自沉淀
+- 使用BrowserControl控制原有浏览器
+- 用Rust 重写底层耗时逻辑模块
+- 提供 IM 接入等能力
+- 仓库地址：[ApolloYH/cc-yh](https://github.com/ApolloYH/cc-yh)
 ### 1. 端到端数字人问答系统
 
 - 面向甲骨文场景，打通语音、视觉、问答生成与数字人联动
@@ -41,7 +46,9 @@
 - 仓库地址：[ApolloYH/EchoCore](https://github.com/ApolloYH/EchoCore)
 
 ## 🏆 Highlights
-
+- 优秀毕业生
+- 优秀毕业论文
+- 国家励志奖学金
 - 全球人工智能算法精英赛 `国三`
 - 一带一路发展与技术创新大赛 `国二`
 - 河南省物联网设计大赛 `省二`
